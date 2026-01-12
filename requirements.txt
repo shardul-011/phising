@@ -7,3 +7,5 @@ scikit-learn
 xgboost
 statsmodels
 imbalanced-learn
+pyyaml
+mlflow
