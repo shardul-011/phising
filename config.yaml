@@ -1,5 +1,5 @@
 data:
-  file_path: "C:\\Users\\singh\\phising-website\\config.yaml"
+  file_path: "C:\\Users\\singh\\phising-website\\data\\phising.csv"
   target_column: "Result"
   test_size: 0.2
   random_state: 42
